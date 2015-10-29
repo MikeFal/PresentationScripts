@@ -1,5 +1,5 @@
 ﻿#Load configurations
-Import-module DSCConfigurations
+. C:\Users\Administrator\Documents\DSCConfigurations.ps1
 
 #switch to the right directory and remove old configs if they exist
 cd C:\IntroToPowershell
